@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/debug/": true,
+        "**/debugPublic/": true,
+        "**/release/": true,
+        "**/releases/": true,
+        "**/x64/": true,
+        "**/x86/": true,
+        "**/bld/": true,
+        "**/bin/": true,
+        "**/obj/": true,
+        "**/log/": true,
+        "**/node_modules": false
+    },
+    "explorerExclude.backup": null
+}
